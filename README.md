@@ -6,7 +6,9 @@
 def hello():
     print("ML Journey!")
 ```
+# `` What is Machine Learning? ``
 
+Machine learning is a subset of artificial intelligence (AI) that enables systems to learn from data and make predictions or decisions without being explicitly programmed. The goal is to develop algorithms that can identify patterns, make decisions, and improve based on new data over 
 
 ``Artificial Neural Network `ANN`.``  
 
